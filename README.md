@@ -83,4 +83,4 @@ This analysis compares spending scores across different generations, and segment
 
 ![Customer Segments](Customer_Segments.png)
 
-This analysis compares Annual Spending Scores and Annual Income, and further segments it into clusters that define their spending behaviors.
+This analysis compares Annual Spending Scores and Annual Income, and I segmented it into clusters following the noticeable patterns, these clusters define their spending behaviors.
